@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e50720eb260a542489a583e48c6186f6, type: 3}
+  m_Name: Narmon
+  m_EditorClassIdentifier: 
+  name: Narmon
+  description: 'Naraoia
+
+'
+  frontSprite: {fileID: -898180361, guid: 190e3534ffa58bc47b154d18a5cb07bb, type: 3}
+  backSprite: {fileID: -431186552, guid: 190e3534ffa58bc47b154d18a5cb07bb, type: 3}
+  type: 1
+  maxHp: 10
+  physicalAttack: 10
+  physicalDefense: 10
+  rangeAttack: 10
+  rangeDefense: 10
+  speed: 10
+  luck: 10
